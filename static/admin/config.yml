@@ -1,7 +1,6 @@
 backend:
-- name: test-repo
-+ name: github
-+ repo: kwpkielce/test-repo
+name: test-repo
+branch: main
 
 media_folder: static/img
 public_folder: /img
